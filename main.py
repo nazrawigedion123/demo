@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 print('hi git')
 print('hi git')
+print('hi git')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
